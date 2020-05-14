@@ -1,0 +1,35 @@
+Amy
+Computer Sciences
+Gway 210C
+Lee
+Economics
+Morrow 110
+Gary
+Biology
+MoPratt 011
+Cece
+Chemistry
+Gway 011B
+Thomas
+Religion
+Morrow 210
+Kenny
+Math/Statistics
+Lipton 105
+Telmo
+Political Sciences
+Lipton 205
+Jenny
+Economics
+Morrow 230
+Tara
+English
+MoPratt 201
+Olivia
+Political Sciences
+Lipton 302
+Mimi
+History
+Morrow 103
+
+
